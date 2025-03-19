@@ -21,3 +21,4 @@ This project has various real-world applications. It can be used for weather mon
 Overall, this project effectively demonstrates how to work with APIs, extract and process real-time data, and visualize it meaningfully. It serves as a great learning experience for beginners looking to explore data-driven applications in Python. The modular nature of the script allows for easy expansion and customization, making it a practical and scalable solution for weather analysis.
 
 *OUTPUT 
+![Image](https://github.com/user-attachments/assets/cfb29cd6-4808-4b3c-aeef-ec0c8988a835)
